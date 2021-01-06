@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+librosa
+argparse
+warnings
+joblib
+collections-extended 
+keras
+sklearn
