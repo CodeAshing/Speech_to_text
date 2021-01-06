@@ -1,8 +1,0 @@
-pandas
-numpy
-matplotlib
-librosa
-argparse
-warnings
-joblib
-keras
